@@ -5,7 +5,7 @@
 
 <p align="center">Sofware Developer <br>I'm specializing in AI in Cyber.</p>
 
-<h3 align="center"> Reach Me On: </h3>
+<h2 align="center"> 📫 Reach Me On: </h2>
   
 <div align="center">
   
