@@ -5,7 +5,7 @@
 
 <p align="center">Sofware Developer <br>I'm currently learning Network.</p>
 
-<h3 align="center"> Follow Me On: </h3>
+<h3 align="center"> Reach Me: </h3>
   
 <div align="center">
   
